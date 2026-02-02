@@ -29,5 +29,5 @@ No solo entrego un gráfico; entrego una **solución de eficiencia**. Este scrip
 3.  Optimizar la política de crédito basada en datos reales de comportamiento de pago.
 
 ---
-**Nathaly Moreno** *Consultora Senior SAP | Data Analyst* [LinkedIn](TU_LINK_DE_LINKEDIN_AQUI) | [Email](mailto:moreno.nathaly713@gmail.com)
+**Nathaly Moreno** *Consultora Senior SAP | Data Analyst* [LinkedIn](https://www.linkedin.com/in/karen-nathaly-fonseca-moreno-9a136b220/) | [Email](mailto:moreno.nathaly713@gmail.com)
 
